@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Asif Khan Rifat</h1>
+<h1 align="center">Hi 👋, I'm Asif Khan Rifat</h1>
 <h3 align="center">CS Undergrad | ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifrifat&label=Profile%20views&color=0e75b6&style=flat" alt="asifrifat" /> </p>
