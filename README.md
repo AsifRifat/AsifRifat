@@ -9,10 +9,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=asifrifat&theme=react&show_icons=true&hide=stars,issues&hide_rank=true"/>
 </p>
 
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=asifrifat&theme=react&show_icons=true&hide=stars,issues&hide_rank=true"/>
+ <img src="https://komarev.com/ghpvc/?username=asifrifat&label=Profile%20views&color=0e75b6&style=flat" alt="asifrifat" /> 
 </p>
- <img src="https://komarev.com/ghpvc/?username=asifrifat&label=Profile%20views&color=0e75b6&style=flat" alt="asifrifat" /> </p>
 
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
