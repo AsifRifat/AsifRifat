@@ -15,5 +15,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifrifat&theme=react&show_icons=true&hide=stars,issues&hide_rank=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifrifat&" alt="asifrifat" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AsifRifat&theme=dark-smoky&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=D54927)](https://git.io/streak-stats)
 
