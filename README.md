@@ -1,19 +1,6 @@
 <h3 align="center">Hi 👋, I'm Asif Khan Rifat</h1>
 <h5 align="center">CS Undergrad | ML Enthusiast</h3>
 
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AsifRifat&theme=dark-smoky&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=D54927"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=asifrifat&theme=react&show_icons=true&hide=stars,issues&hide_rank=true"/>
-</p>
-
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=asifrifat&label=Profile%20views&color=0e75b6&style=flat" alt="asifrifat" /> 
-</p>
-
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asif-khan-rifat-09b268184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-khan-rifat-09b268184" height="30" width="40" /></a>
