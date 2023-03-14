@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Asif Khan Rifat</h1>
-<h5 align="center">CS Undergrad | ML Enthusiast</h3>
+<h5 align="center">Software Engineering Grad Student | ML & NLP Enthusiast</h3>
 
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
